@@ -4,6 +4,7 @@
     profilepic: francis_bach.jpg
     position: INRIA researcher
     alumni: false
+    permanent: true 
 
 "d'Aspremont":
     firstname: Alexandre
@@ -11,27 +12,7 @@
     position: CNRS researcher
     profilepic: alexandre_daspremont.jpeg
     alumni: false
-
-"Rudi":
-    firstname: Alessandro
-    url: https://www.di.ens.fr/~rudi
-    profilepic: alessandro_rudi.jpg
-    position: INRIA researcher
-    alumni: false
-
-"Simsekli":
-    firstname: Umut
-    url: https://www.di.ens.fr/~simsekli/
-    profilepic: umut_simsekli.jpg
-    position: INRIA researcher
-    alumni: false
-
-"Taylor":
-    firstname: Adrien
-    url: https://adrientaylor.github.io/
-    profilepic: adrien_taylor.jpeg
-    position: INRIA researcher
-    alumni: false
+    permanent: true 
     
 "Jordan":
     firstname: Michael
@@ -39,13 +20,38 @@
     profilepic: michael_jordan.jpeg
     position: INRIA researcher
     alumni: false
+    permanent: true 
 
+"Rudi":
+    firstname: Alessandro
+    url: https://www.di.ens.fr/~rudi
+    profilepic: alessandro_rudi.jpg
+    position: INRIA researcher
+    alumni: false
+    permanent: true 
+
+"Simsekli":
+    firstname: Umut
+    url: https://www.di.ens.fr/~simsekli/
+    profilepic: umut_simsekli.jpg
+    position: INRIA researcher
+    alumni: false
+    permanent: true 
+
+"Taylor":
+    firstname: Adrien
+    url: https://adrientaylor.github.io/
+    profilepic: adrien_taylor.jpeg
+    position: INRIA researcher
+    alumni: false
+    permanent: true 
 "Kovacic":
     firstname: Marina
     url: https://sierra-mlopt.github.io/
     profilepic: unknown.jpg
     position: Team assistant
     alumni: false
+    permanent: true 
     
 "Dubois-Taine":
     firstname: Benjamin
@@ -53,6 +59,7 @@
     profilepic: benjamin_dubois.png
     position: PhD student
     alumni: false
+    permanent: false 
 
 "Holzmüller":
     firstname: David
@@ -60,6 +67,7 @@
     profilepic: david_holzmueller.jpg
     position: Postdoc
     alumni: false
+    permanent: false
 
 "Barré":
     firstname: Mathieu
