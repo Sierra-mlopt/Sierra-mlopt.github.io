@@ -30,7 +30,7 @@ social: true # includes social icons at the bottom of the page
 
 <br><br>[Sierra](https://www.di.ens.fr/sierra/) is based at [Inria Paris](https://www.inria.fr/en/inria-paris-centre) and is a joint team between [Inria](https://www.inria.fr/en/), the [computer science department of ENS Paris](https://www.di.ens.fr/set_english) (département d'informatique de l'Ecole Normale Supérieure de Paris), and the [CNRS](https://www.cnrs.fr/en) (Centre National de la Recherche Scientifique, UMR 8548).
 
-Sierra focuses on statistical machine learning and optimization. Our main research axes are summarized as:
+Sierra's main research axes are summarized as:
 - Statistical machine learning,
 - Numerical optimization,
 - ML/Optimization in interactions with other disciplines,

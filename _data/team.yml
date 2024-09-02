@@ -20,7 +20,7 @@
     alumni: false
 
 "Simsekli":
-    firstname: Alessandro
+    firstname: Umut
     url: https://www.di.ens.fr/~simsekli/
     profilepic: umut_simsekli.jpg
     position: INRIA researcher
@@ -39,7 +39,28 @@
     profilepic: michael_jordan.jpeg
     position: INRIA researcher
     alumni: false
+
+"Kovacic":
+    firstname: Marina
+    url: https://sierra-mlopt.github.io/
+    profilepic: unknown.jpg
+    position: Team assistant
+    alumni: false
     
+"Dubois-Taine":
+    firstname: Benjamin
+    url: https://bpauld.github.io/
+    profilepic: benjamin_dubois.png
+    position: PhD student
+    alumni: false
+
+"Holzmüller":
+    firstname: David
+    url: https://dholzmueller.github.io/
+    profilepic: david_holzmueller.jpg
+    position: Postdoc
+    alumni: false
+
 "Barré":
     firstname: Mathieu
     url: https://www.linkedin.com/in/mathieu-barre-206a61a1/
