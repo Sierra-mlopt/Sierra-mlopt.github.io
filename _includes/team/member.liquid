@@ -12,7 +12,7 @@
   {% for i in (1..100) %}
     <span class="reflection-grid-cell reflection-grid-cell-{{i}}"></span>
   {% endfor %}
-  <div class="reflection-content"><img class="img-fluid rounded z-depth-100" width="10%" sizes="10" alt="{{ full_name }}" src="{{ member[1].profilepic | prepend: '/assets/img/team/' | relative_url }}"></div>
+  <div class="reflection-content"><img class="member-img-light w-100" alt="{{ full_name }}" src="{{ member[1].profilepic | prepend: '/assets/img/team/' | relative_url }}"></div>
 </div>
   {{ full_name }}</a><br>
   {{member[1].position}}
@@ -23,7 +23,7 @@
 </div> -->
 
 <div class="member text-center {{member[1].position}}">
-  <a href="{{ member[1].url }}" target="_blank"><img class="img-fluid rounded z-depth-10" sizes="10%" alt="{{ full_name }}" src="{{ member[1].profilepic | prepend: '/assets/img/team/' | relative_url }}">
+  <a href="{{ member[1].url }}" target="_blank"><img class="member-img-light w-100" alt="{{ full_name }}" src="{{ member[1].profilepic | prepend: '/assets/img/team/' | relative_url }}">
   {% if member[1].alumni != true %}
     {{ full_name }}</a><br> ({{member[1].position}})
   {% else %}
