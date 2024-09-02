@@ -1,0 +1,50 @@
+"Bach":
+    firstname: Francis
+    url: https://www.di.ens.fr/~fbach/
+    profilepic: francis_bach.jpg
+    position: INRIA researcher
+    alumni: false
+
+"d'Aspremont":
+    firstname: Alexandre
+    url: https://www.di.ens.fr/~aspremon/
+    position: CNRS researcher
+    profilepic: alexandre_daspremont.jpeg
+    alumni: false
+
+"Rudi":
+    firstname: Alessandro
+    url: https://www.di.ens.fr/~rudi
+    profilepic: alessandro_rudi.jpg
+    position: INRIA researcher
+    alumni: false
+
+"Simsekli":
+    firstname: Alessandro
+    url: https://www.di.ens.fr/~simsekli/
+    profilepic: umut_simsekli.jpg
+    position: INRIA researcher
+    alumni: false
+
+"Taylor":
+    firstname: Adrien
+    url: https://adrientaylor.github.io/
+    profilepic: adrien_taylor.jpeg
+    position: INRIA researcher
+    alumni: false
+    
+"Jordan":
+    firstname: Michael
+    url: https://www.cs.berkeley.edu/~jordan
+    profilepic: michael_jordan.jpeg
+    position: INRIA researcher
+    alumni: false
+    
+"Barré":
+    firstname: Mathieu
+    url: https://mathbarre.github.io/
+    profilepic: mathieu_barre.png
+    position: PhD student
+    movedto: Saint-Gobain R&D
+    alumni: true
+    alumni_date: 10/2021
