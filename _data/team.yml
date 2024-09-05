@@ -206,6 +206,22 @@
     alumni: false
     permanent: false
     
+"Gauthier":
+    firstname: Etienne
+    url: https://www.linkedin.com/in/etienne-gauthier-5193a7211
+    profilepic: etienne_gauthier.png
+    position: PhD student
+    alumni: false
+    permanent: false
+    
+"François":
+    firstname: Alexandre
+    url: https://sierra-mlopt.github.io
+    profilepic: alexandre_francois.jpg
+    position: PhD student
+    alumni: false
+    permanent: false
+    
 "Upadhyaya":
     firstname: Manu
     url: https://manuupadhyaya.github.io/
