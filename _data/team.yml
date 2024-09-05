@@ -17,7 +17,7 @@
 "Jordan":
     firstname: Michael
     url: https://www.cs.berkeley.edu/~jordan
-    profilepic: michael_jordan.jpeg
+    profilepic: michael_jordan.webp
     position: Inria
     alumni: false
     permanent: true 
@@ -298,7 +298,7 @@
     position: Postdoc
     movedto: Samsung
     alumni: true
-    alumni_date: 2023https://iww.inria.fr/sedgra/equipe/loic-esteve/
+    alumni_date: 2023
     
 "Esteve":
     firstname: Loïc
@@ -306,6 +306,15 @@
     profilepic: loic_esteve.jpg
     position: Engineer
     movedto: Inria Grenoble
+    alumni: true
+    alumni_date: 2023
+    
+"Bessin-Rousseau":
+    firstname: Hélène
+    url: https://www.linkedin.com/in/helenebessinrousseau
+    profilepic: helene_bessin.jpeg
+    position: Inria, team assistant
+    movedto: INSA Rennes
     alumni: true
     alumni_date: 2023
     
