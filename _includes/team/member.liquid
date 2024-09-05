@@ -28,6 +28,8 @@
     {{ full_name }}</a><br> ({{member[1].position}})
   {% else %}
     {{ full_name }}</a><br>{{member[1].position}}
-    <br> <span class="movedto">(moved to {{member[1].movedto}})</span>
+      {% if member[1].movedto != "none" %}
+        <br> <span class="movedto">(moved to {{member[1].movedto}})</span>
+      {% endif %}
   {% endif %}
 </div>

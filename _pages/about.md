@@ -28,10 +28,10 @@ social: true # includes social icons at the bottom of the page
 </div>
 
 
-<br><br>[Sierra](https://www.di.ens.fr/sierra/) is based at [Inria Paris](https://www.inria.fr/en/inria-paris-centre) and is a joint team between [Inria](https://www.inria.fr/en/), the [computer science department of ENS Paris](https://www.di.ens.fr/set_english) (département d'informatique de l'Ecole Normale Supérieure de Paris), and the [CNRS](https://www.cnrs.fr/en) (Centre National de la Recherche Scientifique, UMR 8548).
+<br><br>[Sierra](https://www.di.ens.fr/sierra/) is based at [Inria Paris](https://www.inria.fr/en/inria-paris-centre) and is a joint team between [Inria](https://www.inria.fr/en/), the [computer science department of ENS Paris](https://www.di.ens.fr/set_english) (département d'informatique de l'Ecole Normale Supérieure de Paris), and the [CNRS](https://www.cnrs.fr/en) (Centre National de la Recherche Scientifique, UMR 8548). The team is lead by <a href="https://www.di.ens.fr/~fbach/">Francis Bach</a>.
 
-Sierra's main research axes are summarized as:
-- Statistical machine learning,
-- Numerical optimization,
-- ML/Optimization in interactions with other disciplines,
-- Incentives, social welfare, and machine learning.
+Our main research axes are
+* Statistical machine learning,
+* Numerical optimization,
+* ML/Optimization in interactions with other disciplines,
+* Incentives, social welfare, and machine learning.
