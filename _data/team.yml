@@ -230,6 +230,14 @@
     alumni: false
     permanent: false
     
+"Mishkin":
+    firstname: Aaron
+    url: https://cs.stanford.edu/~amishkin/
+    profilepic: aaron_mishkin.jpeg
+    position: Visiting PhD student
+    alumni: false
+    permanent: false
+    
 "Cantelobre":
     firstname: Théophile
     url: https://theophilec.github.io/
