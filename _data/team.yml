@@ -102,6 +102,14 @@
     alumni: false
     permanent: false
     
+"Braun":
+    firstname: Sacha
+    url: https://elsacho.github.io/
+    profilepic: sacha_braun.jpg
+    position: PhD student
+    alumni: false
+    permanent: false
+    
 "Fogel":
     firstname: Fajwel
     url: https://www.linkedin.com/in/fajwel-fogel-1124671b
