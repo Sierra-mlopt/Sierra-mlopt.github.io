@@ -45,15 +45,6 @@
     position: Inria
     alumni: false
     permanent: true 
-    
-"Kovacic":
-    firstname: Marina
-    url: https://sierra-mlopt.github.io/
-    profilepic: unknown.jpg
-    position: Inria, team assistant
-    alumni: false
-    permanent: true 
-    
 "Palma":
     firstname: Abigail
     url: https://sierra-mlopt.github.io/
@@ -269,6 +260,17 @@
     position: Postdoc
     alumni: false
     permanent: false
+    
+"Kovacic":
+    firstname: Marina
+    url: https://sierra-mlopt.github.io/
+    profilepic: unknown.jpg
+    position: Inria, team assistant
+    alumni: true
+    movedto: Inria (ARGO team)
+    permanent: true 
+    alumni_date: 2024
+    
     
 "Chazal":
     firstname: Clémentine
