@@ -22,14 +22,6 @@
     alumni: false
     permanent: true 
 
-"Rudi":
-    firstname: Alessandro
-    url: https://www.di.ens.fr/~rudi
-    profilepic: alessandro_rudi.jpg
-    position: Inria
-    alumni: false
-    permanent: true 
-
 "Simsekli":
     firstname: Umut
     url: https://www.di.ens.fr/~simsekli/
@@ -173,14 +165,6 @@
     alumni: false
     permanent: false
     
-"Moucer":
-    firstname: Céline
-    url: https://cmoucer.github.io/
-    profilepic: celine_moucer.jpeg
-    position: PhD student
-    alumni: false
-    permanent: false
-    
 "Lezane":
     firstname: Clément
     url: https://www.linkedin.com/in/cl%C3%A9ment-lezane-7222b01b6/
@@ -260,6 +244,26 @@
     position: Postdoc
     alumni: false
     permanent: false
+
+"Rudi":
+    firstname: Alessandro
+    url: https://www.di.ens.fr/~rudi
+    profilepic: alessandro_rudi.jpg
+    position: Inria
+    alumni: true
+    movedto: Bocconi University
+    permanent: true 
+    alumni_date: 2024
+    
+"Moucer":
+    firstname: Céline
+    url: https://cmoucer.github.io/
+    profilepic: celine_moucer.jpeg
+    position: PhD student
+    alumni: true
+    movedto: Direction du Budget
+    permanent: false 
+    alumni_date: 2024
     
 "Kovacic":
     firstname: Marina
