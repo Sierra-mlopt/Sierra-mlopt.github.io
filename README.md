@@ -38,7 +38,5 @@ and create a new branch
 > git add assets/img/team/
 > git commit -m 'team member update: my name'
 > git push --set-upstream origin my_name
-6) pull request 
-> gh pr create --base main --head my_name --title "Team member update"
 
 You're all set. This will have to be validated by the owner of the git repository, which will then update the website.
