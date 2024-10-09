@@ -27,16 +27,16 @@ In order to add a picture for a team member, place it in the repository [assets/
 The following step-by-step procedure allows to directly edit the website
 1) open a terminal
 2) clone the repository by typing
-> git clone git@github.com:Sierra-mlopt/Sierra-mlopt.github.io.git
+```git clone git@github.com:Sierra-mlopt/Sierra-mlopt.github.io.git"""
 which should create a new folder "Sierra-mlopt.github.io/" in which you can cd
-> cd Sierra-mlopt.github.io
+```cd Sierra-mlopt.github.io"""
 and create a new branch
-> git checkout -b my_name
+```git checkout -b my_name"""
 3) add your picture to the directory [assets/img/team](assets/img/team) (please name it "yourfirstname_yourfamilyname" with the appropriate extension: .png, .jpg, or .jpeg)
 4) update the metadata in [_data/team.yml](_data/team.yml) (please follow the pattern of other entries)
 5) save, commit, and push your changes on the git repo
-> git add assets/img/team/
-> git commit -m 'team member update: my name'
-> git push --set-upstream origin my_name
+```git add assets/img/team/
+git commit -m 'team member update: my name'
+git push --set-upstream origin my_name"""
 
 You're all set. This will have to be validated by the owner of the git repository, which will then update the website.
