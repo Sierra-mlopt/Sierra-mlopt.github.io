@@ -45,6 +45,14 @@
     alumni: false
     permanent: true 
     
+"Chen":
+    firstname: Yurong
+    url: https://ruyc.github.io/
+    profilepic: yurong_chen.jpeg
+    position: Postdoc
+    alumni: false
+    permanent: false
+     
 "Dubois-Taine":
     firstname: Benjamin
     url: https://bpauld.github.io/
