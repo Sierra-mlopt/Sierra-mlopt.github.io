@@ -43,6 +43,7 @@ git checkout -b my_name
 5) save, commit, and push your changes on the git repo
 ```
 git add assets/img/team/
+git add _data/team.yml
 git commit -m 'team member update: my name'
 git push --set-upstream origin my_name
 ```
