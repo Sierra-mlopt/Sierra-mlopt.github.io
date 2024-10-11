@@ -48,4 +48,5 @@ git commit -m 'team member update: my name'
 git push --set-upstream origin my_name
 ```
 
-You're all set. This will have to be validated by the owner of the git repository, which will then update the website.
+You're all set. Now, you can create a pull request (e.g., using the GitHub web interface) to push your updates to the "main" branch.
+An owner of the git repository will have to validate this, and then the website will be updated.
