@@ -37,6 +37,7 @@
     position: Inria
     alumni: false
     permanent: true 
+
 "Palma":
     firstname: Abigail
     url: https://sierra-mlopt.github.io/
@@ -536,6 +537,14 @@
     movedto: EPFL
     alumni: true
     alumni_date: 2020
+
+"Dana":
+    firstname: Léo
+    url: https://www.linkedin.com/in/l%C3%A9o-dana-b169b7207/
+    profilepic: leo_dana.jpg
+    position: Intern
+    alumni: false
+    permanent: false
 
 "Shpakova":
     firstname: Tatiana
