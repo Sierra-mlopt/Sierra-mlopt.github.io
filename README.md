@@ -1,3 +1,4 @@
+ls
 # Site framework
 
 The website uses [al-folio](https://alshedivat.github.io/al-folio/). For their original instructions, see [old_README.md](old_README.md). Here, we maintain a list of (non-obvious) instructions for how to keep the website up to date. 
@@ -25,6 +26,9 @@ In order to add a picture for a team member, place it in the repository [assets/
 ## Details
 
 The following step-by-step procedure allows to directly edit the website
+0) Create a github account, and get a nice picture of you (if you want to put one on the website).
+Make sure the picture has a reasonable size (otherwise, it will take a while to load). Your picture does not need a high resolution here.
+1) Fork the repository (so that you have a copy associated with your git account; see, for instance [help here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
 1) open a terminal
 2) clone the repository by typing
 ```
