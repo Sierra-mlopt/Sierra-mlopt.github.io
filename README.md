@@ -1,4 +1,3 @@
-ls
 # Site framework
 
 The website uses [al-folio](https://alshedivat.github.io/al-folio/). For their original instructions, see [old_README.md](old_README.md). Here, we maintain a list of (non-obvious) instructions for how to keep the website up to date. 
