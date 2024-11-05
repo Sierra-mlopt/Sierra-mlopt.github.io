@@ -30,9 +30,9 @@ The following step-by-step procedure allows to directly edit the website
 Make sure the picture has a reasonable size (otherwise, it will take a while to load). Your picture does not need a high resolution here.
 1) Fork the repository (so that you have a copy associated with your git account; see, for instance [help here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
 1) open a terminal
-2) clone the repository by typing
+2) clone the repository by typing (replace **MY_ACCOUNT** by your git account)
 ```
-git clone git@github.com:Sierra-mlopt/Sierra-mlopt.github.io.git
+git clone git@github.com:**MY_ACCOUNT**/Sierra-mlopt.github.io.git
 ```
 which should create a new folder "Sierra-mlopt.github.io/" in which you can cd
 ```
