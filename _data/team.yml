@@ -182,14 +182,6 @@
     alumni: false
     permanent: false
     
-"Follain":
-    firstname: Bertille
-    url: https://bertillefollain.netlify.app/
-    profilepic: bertille_follain.jpg
-    position: PhD student
-    alumni: false
-    permanent: false
-    
 "Martin":
     firstname: Simon
     url: https://simonmartin15.github.io/
@@ -229,14 +221,6 @@
     position: Visiting PhD student
     alumni: false
     permanent: false
-    
-"Cantelobre":
-    firstname: Théophile
-    url: https://theophilec.github.io/
-    profilepic: theophile_cantelobre.webp
-    position: PhD student
-    alumni: false
-    permanent: false
 
 "Holzmüller":
     firstname: David
@@ -253,6 +237,26 @@
     position: Postdoc
     alumni: false
     permanent: false
+    
+"Follain":
+    firstname: Bertille
+    url: https://bertillefollain.netlify.app/
+    profilepic: bertille_follain.jpg
+    position: PhD student
+    alumni: true
+    movedto: job market
+    permanent: false 
+    alumni_date: 2024
+    
+"Cantelobre":
+    firstname: Théophile
+    url: https://theophilec.github.io/
+    profilepic: theophile_cantelobre.webp
+    position: PhD student
+    alumni: true
+    movedto: job market
+    permanent: false 
+    alumni_date: 2024
 
 "Rudi":
     firstname: Alessandro
