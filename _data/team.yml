@@ -213,14 +213,6 @@
     position: Visiting PhD student
     alumni: false
     permanent: false
-    
-"Mishkin":
-    firstname: Aaron
-    url: https://cs.stanford.edu/~amishkin/
-    profilepic: aaron_mishkin.png
-    position: Visiting PhD student
-    alumni: false
-    permanent: false
 
 "Holzmüller":
     firstname: David
@@ -237,6 +229,16 @@
     position: Postdoc
     alumni: false
     permanent: false
+    
+"Mishkin":
+    firstname: Aaron
+    url: https://cs.stanford.edu/~amishkin/
+    profilepic: aaron_mishkin.png
+    position: Visiting PhD student
+    alumni: true
+    movedto: Stanford
+    permanent: false 
+    alumni_date: 2025
     
 "Follain":
     firstname: Bertille
