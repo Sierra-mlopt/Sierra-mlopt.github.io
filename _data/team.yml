@@ -230,6 +230,22 @@
     alumni: false
     permanent: false
     
+"Dana":
+    firstname: Léo
+    url: https://www.linkedin.com/in/l%C3%A9o-dana-b169b7207/
+    profilepic: leo_dana.jpg
+    position: Intern
+    alumni: false
+    permanent: false
+
+"Decugis":
+    firstname: Juliette
+    url: https://www.linkedin.com/in/juliette-decugis-a29673139/
+    profilepic: juliette_decugis.jpg
+    position: PhD student
+    alumni: false
+    permanent: false
+    
 "Mishkin":
     firstname: Aaron
     url: https://cs.stanford.edu/~amishkin/
@@ -290,7 +306,6 @@
     permanent: true 
     alumni_date: 2024
     
-    
 "Chazal":
     firstname: Clémentine
     url: https://www.linkedin.com/in/cl%C3%A9mentine-chazal-76a702218/
@@ -300,13 +315,39 @@
     alumni: true
     alumni_date: 2024
     
-    
 "Viallard":
     firstname: Paul
     url: https://paulviallard.github.io/
     profilepic: paul_viallard.jpg
     position: Postdoc
     movedto: Inria Rennes
+    alumni: true
+    alumni_date: 2024
+
+"Gruber":
+    firstname: Sebastian
+    url: https://www.linkedin.com/in/sebastian-gruber-21b76813b/
+    profilepic: sebastian_gruber.jpeg
+    position: Visiting PhD student
+    movedto: KU Leuven
+    alumni: true
+    alumni_date: 2024
+    
+"Bambade":
+    firstname: Antoine
+    url: https://bambade.github.io/
+    profilepic: antoine_bambade.jpg
+    position: PhD student
+    movedto: EDF
+    alumni: true
+    alumni_date: 2024
+    
+"Cabannes":
+    firstname: Gaspard
+    url: https://gaspardbb.github.io/
+    profilepic: gaspard_beugnot.jpeg
+    position: PhD student
+    movedto: Alice & Bob
     alumni: true
     alumni_date: 2024
     
@@ -364,15 +405,6 @@
     alumni: true
     alumni_date: 2023
     
-"Daneshmand":
-    firstname: Hadi
-    url: https://www.linkedin.com/in/hadi-daneshmand-11810941/
-    profilepic: hadi_daneshmand.jpeg
-    position: Postdoc
-    movedto: Princeton University
-    alumni: true
-    alumni_date: 2022
-    
 "Aubin":
     firstname: Pierre-Cyril
     url: https://pcaubin.github.io/
@@ -381,24 +413,6 @@
     movedto: TU Wien
     alumni: true
     alumni_date: 2023
-    
-"Arjovsky":
-    firstname: Martin
-    url: https://sierra-mlopt.github.io
-    profilepic: martin_artovsky.jpeg
-    position: Postdoc
-    movedto: Deepmind
-    alumni: true
-    alumni_date: 2022
-    
-"Romain":
-    firstname: Manon
-    url: https://www.linkedin.com/in/manon-romain-383a29238/
-    profilepic: manon_romain.jpeg
-    position: PhD student
-    movedto: Le Monde
-    alumni: true
-    alumni_date: 2021
     
 "Izacard":
     firstname: Gautier
@@ -409,23 +423,23 @@
     alumni: true
     alumni_date: 2023
     
-"Bambade":
-    firstname: Antoine
-    url: https://bambade.github.io/
-    profilepic: antoine_bambade.jpg
-    position: PhD student
-    movedto: EDF
+"Daneshmand":
+    firstname: Hadi
+    url: https://www.linkedin.com/in/hadi-daneshmand-11810941/
+    profilepic: hadi_daneshmand.jpeg
+    position: Postdoc
+    movedto: Princeton University
     alumni: true
-    alumni_date: 2024
+    alumni_date: 2022
     
-"Cabannes":
-    firstname: Gaspard
-    url: https://gaspardbb.github.io/
-    profilepic: gaspard_beugnot.jpeg
-    position: PhD student
-    movedto: Alice & Bob
+"Arjovsky":
+    firstname: Martin
+    url: https://sierra-mlopt.github.io
+    profilepic: martin_artovsky.jpeg
+    position: Postdoc
+    movedto: Deepmind
     alumni: true
-    alumni_date: 2024
+    alumni_date: 2022
     
 "Cabannes":
     firstname: Vivien
@@ -462,6 +476,15 @@
     movedto: Capital Fund Management
     alumni: true
     alumni_date: 2022
+    
+"Romain":
+    firstname: Manon
+    url: https://www.linkedin.com/in/manon-romain-383a29238/
+    profilepic: manon_romain.jpeg
+    position: PhD student
+    movedto: Le Monde
+    alumni: true
+    alumni_date: 2021
     
 "Muzellec":
     firstname: Boris
@@ -517,6 +540,33 @@
     alumni: true
     alumni_date: 2021
 
+"Kerdreux":
+    firstname: Thomas
+    url: https://www.linkedin.com/in/thomas-kerdreux-118936237
+    profilepic: thomas_kerdreux.jpeg
+    position: PhD student
+    movedto: Los Alamos National Laboratory
+    alumni: true
+    alumni_date: 2021
+
+"Brégère":
+    firstname: Margaux
+    url: https://margauxbregere.github.io/
+    profilepic: margaux_bregere.jpeg
+    position: PhD student
+    movedto: EDF
+    alumni: true
+    alumni_date: 2021
+
+"Degenne":
+    firstname: Rémy
+    url: https://remydegenne.github.io/
+    profilepic: remy_degenne.jpg
+    position: Postdoc
+    movedto: Inria Lille
+    alumni: true
+    alumni_date: 2020
+
 "Sun":
     firstname: Yifan
     url: https://sites.google.com/site/yifansunwebsite
@@ -544,22 +594,6 @@
     alumni: true
     alumni_date: 2020
 
-"Dana":
-    firstname: Léo
-    url: https://www.linkedin.com/in/l%C3%A9o-dana-b169b7207/
-    profilepic: leo_dana.jpg
-    position: Intern
-    alumni: false
-    permanent: false
-
-"Decugis":
-    firstname: Juliette
-    url: https://www.linkedin.com/in/juliette-decugis-a29673139/
-    profilepic: juliette_decugis.jpg
-    position: PhD student
-    alumni: false
-    permanent: false
-
 "Shpakova":
     firstname: Tatiana
     url: https://www.linkedin.com/in/tatiana-shpakova-phd/
@@ -577,33 +611,6 @@
     movedto: Telecom Paristech
     alumni: true
     alumni_date: 2019
-
-"Kerdreux":
-    firstname: Thomas
-    url: https://www.linkedin.com/in/thomas-kerdreux-118936237
-    profilepic: thomas_kerdreux.jpeg
-    position: PhD student
-    movedto: Los Alamos National Laboratory
-    alumni: true
-    alumni_date: 2021
-
-"Brégère":
-    firstname: Margaux
-    url: https://margauxbregere.github.io/
-    profilepic: margaux_bregere.jpeg
-    position: PhD student
-    movedto: EDF
-    alumni: true
-    alumni_date: 2021
-
-"Degenne":
-    firstname: Rémy
-    url: https://remydegenne.github.io/
-    profilepic: remy_degenne.jpg
-    position: Postdoc
-    movedto: Inria Lille
-    alumni: true
-    alumni_date: 2020
 
 "Gaillard":
     firstname: Pierre
@@ -686,42 +693,6 @@
     alumni: true
     alumni_date: 2018
 
-"Schatz":
-    firstname: Thomas
-    url: https://thomas.schatz.cogserver.net/
-    profilepic: thomas_schatz.png
-    position: PhD student
-    movedto:  University of Marylan
-    alumni: true
-    alumni_date: 2016
-
-"Podosinnikova":
-    firstname: Anastasia
-    url: https://x.com/apodosin
-    profilepic: anastasia_podosinnikova.jpg
-    position: PhD student
-    movedto: MIT
-    alumni: true
-    alumni_date: 2016
-
-"Bamdev":
-    firstname: Mishra
-    url: https://bamdevmishra.in/
-    profilepic: bamdev_mishra.jpeg
-    position: PhD student
-    movedto: Max Planck Institute
-    alumni: true
-    alumni_date: 2014
-
-"Andrieu":
-    firstname: Loic
-    url: https://sites.google.com/view/damien-garreau/home
-    profilepic: loic_andrieu.jpg
-    position: PhD student
-    movedto: IGN & MATIS
-    alumni: true
-    alumni_date: 2016
-
 "Garreau":
     firstname: Damien
     url: https://sites.google.com/view/damien-garreau/home
@@ -767,15 +738,6 @@
     alumni: true
     alumni_date: 2017
     
-"Osokin":
-    firstname: Anton
-    url: https://aosokin.github.io/
-    profilepic: anton_osokin.jpg
-    position: Postdoc
-    movedto: HSE Moscow
-    alumni: true
-    alumni_date: 2015
-    
 "Gower":
     firstname: Robert
     url: https://gowerrobert.github.io/
@@ -793,6 +755,69 @@
     movedto: Inria Lille
     alumni: true
     alumni_date: 2017
+    
+"Boumal":
+    firstname: Nicolas
+    url: https://www.nicolasboumal.net/
+    profilepic: nicolas_boumal.jpg
+    position: Postdoc
+    movedto: Princeton University
+    alumni: true
+    alumni_date: 2016
+
+"Schatz":
+    firstname: Thomas
+    url: https://thomas.schatz.cogserver.net/
+    profilepic: thomas_schatz.png
+    position: PhD student
+    movedto:  University of Marylan
+    alumni: true
+    alumni_date: 2016
+
+"Podosinnikova":
+    firstname: Anastasia
+    url: https://x.com/apodosin
+    profilepic: anastasia_podosinnikova.jpg
+    position: PhD student
+    movedto: MIT
+    alumni: true
+    alumni_date: 2016
+
+"Andrieu":
+    firstname: Loic
+    url: https://sites.google.com/view/damien-garreau/home
+    profilepic: loic_andrieu.jpg
+    position: PhD student
+    movedto: IGN & MATIS
+    alumni: true
+    alumni_date: 2016
+    
+"Bermanis":
+    firstname: Amit
+    url: https://www.linkedin.com/in/amit-bermanis
+    profilepic: unknown.jpg
+    position: Postdoc
+    movedto: University of Toronto
+    alumni: true
+    alumni_date: 2016
+    
+"Lacoste-Julien":
+    firstname: Simon
+    url: https://www-labs.iro.umontreal.ca/~slacoste/
+    profilepic: simon_lacoste.jpg
+    position: Research scientist
+    movedto: Université de Montréal
+    alumni: true
+    alumni_date: 2016
+    
+"Osokin":
+    firstname: Anton
+    url: https://aosokin.github.io/
+    profilepic: anton_osokin.jpg
+    position: Postdoc
+    movedto: HSE Moscow
+    alumni: true
+    alumni_date: 2015
     
 "Perchet":
     firstname: Vianney
@@ -830,15 +855,6 @@
     alumni: true
     alumni_date: 2015
     
-"Boumal":
-    firstname: Nicolas
-    url: https://www.nicolasboumal.net/
-    profilepic: nicolas_boumal.jpg
-    position: Postdoc
-    movedto: Princeton University
-    alumni: true
-    alumni_date: 2016
-    
 "Couzinié-Devy":
     firstname: Florent
     url: https://www.linkedin.com/in/florent-couzinie-devy-89946094/
@@ -848,14 +864,68 @@
     alumni: true
     alumni_date: 2015
     
-"Bermanis":
-    firstname: Amit
-    url: https://www.linkedin.com/in/amit-bermanis
-    profilepic: unknown.jpg
+"Shervashidze":
+    firstname: Nino
+    url: https://members.cbio.mines-paristech.fr/~nshervashidze/
+    profilepic: nino_hervashidze.jpg
     position: Postdoc
-    movedto: University of Toronto
+    movedto: Mines ParisTech - Curie Institute
     alumni: true
-    alumni_date: 2016
+    alumni_date: 2015
+
+"Bamdev":
+    firstname: Mishra
+    url: https://bamdevmishra.in/
+    profilepic: bamdev_mishra.jpeg
+    position: PhD student
+    movedto: Max Planck Institute
+    alumni: true
+    alumni_date: 2014
+    
+"Grave":
+    firstname: Edouard
+    url: https://www.linkedin.com/in/edouard-grave-63099823
+    profilepic: edouard_grave.jpeg
+    position: PhD student
+    movedto: UC Berkeley
+    alumni: true
+    alumni_date: 2014
+    
+"Nelakanti":
+    firstname: Anil 
+    url: https://www.linkedin.com/in/anil-nelakanti-333022b1
+    profilepic: unknown.jpg
+    position: PhD student
+    movedto: Indian Institute of Technology
+    alumni: true
+    alumni_date: 2014
+    
+"Solnon":
+    firstname: Matthieu
+    url: https://www.linkedin.com/in/matthieu-solnon-064a1229a/
+    profilepic: unknown.jpg
+    position: PhD student
+    movedto: Lycée la Martinière Monplaisir
+    alumni: true
+    alumni_date: 2013
+    
+"Obozinski":
+    firstname: Guillaume
+    url: http://imagine.enpc.fr/~obozinsg/
+    profilepic: guillaume_obozinski.jpg
+    position: Research scientist
+    movedto: Ecole des Ponts - ParisTech
+    alumni: true
+    alumni_date: 2013
+    
+"Schmidt":
+    firstname: Mark
+    url: https://www.cs.ubc.ca/~schmidtm/
+    profilepic: mark_schmidt.jpg
+    position: Postdoc
+    movedto: University of British Columbia
+    alumni: true
+    alumni_date: 2013
     
 "Audibert":
     firstname: Jean-Yves
@@ -893,66 +963,21 @@
     alumni: true
     alumni_date: 2013
     
-"Grave":
-    firstname: Edouard
-    url: https://www.linkedin.com/in/edouard-grave-63099823
-    profilepic: edouard_grave.jpeg
-    position: PhD student
-    movedto: UC Berkeley
-    alumni: true
-    alumni_date: 2014
-
-"Gruber":
-    firstname: Sebastian
-    url: https://www.linkedin.com/in/sebastian-gruber-21b76813b/
-    profilepic: sebastian_gruber.jpeg
-    position: Visiting PhD student
-    movedto: KU Leuven
-    alumni: true
-    alumni_date: 2024
-    
-"Jenatton":
-    firstname: Rodolphe
-    url: https://www.rodolphejenatton.com/
-    profilepic: rodolphe_jenatton.jpg
-    position: PhD student
-    movedto: Ecole Polytechnique
-    alumni: true
-    alumni_date: 2011
-    
-"Joulin":
-    firstname: Armand
-    url: https://www.linkedin.com/in/armand-joulin-0274254/
-    profilepic: armand_joulin.jpeg
-    position: PhD student
-    movedto: Stanford
-    alumni: true
-    alumni_date: 2012
-    
-"Lacoste-Julien":
-    firstname: Simon
-    url: https://www-labs.iro.umontreal.ca/~slacoste/
-    profilepic: simon_lacoste.jpg
-    position: Research scientist
-    movedto: Université de Montréal
-    alumni: true
-    alumni_date: 2016
-    
-"Lefevre":
-    firstname: Augustin
-    url: https://www.linkedin.com/in/augustin-lefevre-b96b78260/
-    profilepic: augustin_lefevre.jpeg
-    position: PhD student
-    movedto: UCLouvain
-    alumni: true
-    alumni_date: 2011
-    
 "Le Roux":
     firstname: Nicolas
     url: https://nicolas.le-roux.name
     profilepic: nicolas_le_roux.jpg
     position: Postdoc
     movedto: Criteo
+    alumni: true
+    alumni_date: 2013
+    
+"Mairal":
+    firstname: Julien
+    url: https://lear.inrialpes.fr/people/mairal/
+    profilepic: julien_mairal.jpg
+    position: PhD student
+    movedto: UC Berkeley
     alumni: true
     alumni_date: 2013
     
@@ -965,59 +990,32 @@
     alumni: true
     alumni_date: 2012
     
-"Mairal":
-    firstname: Julien
-    url: https://lear.inrialpes.fr/people/mairal/
-    profilepic: julien_mairal.jpg
+"Joulin":
+    firstname: Armand
+    url: https://www.linkedin.com/in/armand-joulin-0274254/
+    profilepic: armand_joulin.jpeg
     position: PhD student
-    movedto: UC Berkeley
+    movedto: Stanford
     alumni: true
-    alumni_date: 2013
+    alumni_date: 2012
     
-"Nelakanti":
-    firstname: Anil 
-    url: https://www.linkedin.com/in/anil-nelakanti-333022b1
-    profilepic: unknown.jpg
+"Jenatton":
+    firstname: Rodolphe
+    url: https://www.rodolphejenatton.com/
+    profilepic: rodolphe_jenatton.jpg
     position: PhD student
-    movedto: Indian Institute of Technology
+    movedto: Ecole Polytechnique
     alumni: true
-    alumni_date: 2014
+    alumni_date: 2011
     
-"Obozinski":
-    firstname: Guillaume
-    url: http://imagine.enpc.fr/~obozinsg/
-    profilepic: guillaume_obozinski.jpg
-    position: Research scientist
-    movedto: Ecole des Ponts - ParisTech
-    alumni: true
-    alumni_date: 2013
-    
-"Schmidt":
-    firstname: Mark
-    url: https://www.cs.ubc.ca/~schmidtm/
-    profilepic: mark_schmidt.jpg
-    position: Postdoc
-    movedto: University of British Columbia
-    alumni: true
-    alumni_date: 2013
-    
-"Shervashidze":
-    firstname: Nino
-    url: https://members.cbio.mines-paristech.fr/~nshervashidze/
-    profilepic: nino_hervashidze.jpg
-    position: Postdoc
-    movedto: Mines ParisTech - Curie Institute
-    alumni: true
-    alumni_date: 2015
-    
-"Solnon":
-    firstname: Matthieu
-    url: https://www.linkedin.com/in/matthieu-solnon-064a1229a/
-    profilepic: unknown.jpg
+"Lefevre":
+    firstname: Augustin
+    url: https://www.linkedin.com/in/augustin-lefevre-b96b78260/
+    profilepic: augustin_lefevre.jpeg
     position: PhD student
-    movedto: Lycée la Martinière Monplaisir
+    movedto: UCLouvain
     alumni: true
-    alumni_date: 2013
+    alumni_date: 2011
     
 "Zaslavskiy":
     firstname: Mikhail
