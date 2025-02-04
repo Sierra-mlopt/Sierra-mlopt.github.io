@@ -107,7 +107,9 @@
     url: https://www.linkedin.com/in/fajwel-fogel-1124671b
     profilepic: fajwel_fogel.jpeg
     position: Postdoc
-    alumni: false
+    alumni: true
+    movedto: Doctolib
+    alumni_date: 2024
     permanent: false
     
 "Schlosser":
