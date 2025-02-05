@@ -1027,3 +1027,11 @@
     movedto: Cellectis
     alumni: true
     alumni_date: 2010
+
+"Kunstner":
+    firstname: Frederik
+    url: https://fkunstner.github.io
+    profilepic: frederik_kunstner.jpg
+    position: Postdoc
+    alumni: false
+    alumni_date: 2026
