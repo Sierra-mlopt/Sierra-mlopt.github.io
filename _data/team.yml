@@ -1035,3 +1035,11 @@
     position: Postdoc
     alumni: false
     alumni_date: 2026
+
+"Berg Thomsen":
+    firstname: Daniel
+    url: https://bergthomsen.com
+    profilepic: daniel_bergthomsen.jpg
+    position: Predoc student
+    alumni: false
+    permanent: false
