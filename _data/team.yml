@@ -1043,3 +1043,11 @@
     position: Predoc student
     alumni: false
     permanent: false
+
+"Haubert":
+    firstname: Lucas
+    url: https://www.linkedin.com/in/lucas-haubert-b668a421a/
+    profilepic: lucas_haubert.jpg
+    position: Engineer
+    alumni: false
+    permanent: false
