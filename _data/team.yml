@@ -1051,3 +1051,11 @@
     position: Engineer
     alumni: false
     permanent: false
+
+"Beyler":
+    firstname: Eliot
+    url: https://ebeyler.github.io
+    profilepic: eliot_beyler.jpeg
+    position: PhD student
+    alumni: false
+    permanent: false
