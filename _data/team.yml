@@ -53,14 +53,6 @@
     position: Postdoc
     alumni: false
     permanent: false
-     
-"Dubois-Taine":
-    firstname: Benjamin
-    url: https://bpauld.github.io/
-    profilepic: benjamin_dubois.png
-    position: PhD student
-    alumni: false
-    permanent: false
     
 "Lambert":
     firstname: Marc
@@ -204,14 +196,6 @@
     profilepic: david_holzmueller.jpg
     position: Postdoc
     alumni: false
-    permanent: falseanant_raj.jpeg
-
-"Raj":
-    firstname: Anant
-    url: https://anantrajml.github.io/
-    profilepic: anant_raj.jpeg
-    position: Postdoc
-    alumni: false
     permanent: false
     
 "Dana":
@@ -229,6 +213,16 @@
     position: PhD student
     alumni: false
     permanent: false
+     
+"Dubois-Taine":
+    firstname: Benjamin
+    url: https://bpauld.github.io/
+    profilepic: benjamin_dubois.png
+    position: PhD student
+    alumni: true
+    movedto: Inria (Saclay), EDF R&D
+    permanent: false 
+    alumni_date: 2025
     
 "Upadhyaya":
     firstname: Manu
@@ -249,6 +243,16 @@
     movedto: Stanford
     permanent: false 
     alumni_date: 2025
+
+"Raj":
+    firstname: Anant
+    url: https://anantrajml.github.io/
+    profilepic: anant_raj.jpeg
+    position: Postdoc
+    alumni: true
+    movedto: IISc
+    permanent: false 
+    alumni_date: 2024
     
 "Fogel":
     firstname: Fajwel
@@ -1042,7 +1046,7 @@
     firstname: Daniel
     url: https://bergthomsen.com
     profilepic: daniel_bergthomsen.jpg
-    position: Predoc student
+    position: Engineer
     alumni: false
     permanent: false
 
