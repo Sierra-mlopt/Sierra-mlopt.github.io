@@ -1059,3 +1059,11 @@
     position: PhD student
     alumni: false
     permanent: false
+    
+"Gissler":
+    firstname: Armand
+    url: https://agissler.github.io
+    profilepic: armand_gissler.jpeg
+    position: Postdoc
+    alumni: false
+    permanent: false
