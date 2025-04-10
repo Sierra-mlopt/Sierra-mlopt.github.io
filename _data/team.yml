@@ -102,16 +102,6 @@
     alumni: false
     permanent: false
     
-"Fogel":
-    firstname: Fajwel
-    url: https://www.linkedin.com/in/fajwel-fogel-1124671b
-    profilepic: fajwel_fogel.jpeg
-    position: Postdoc
-    alumni: true
-    movedto: Doctolib
-    alumni_date: 2024
-    permanent: false
-    
 "Schlosser":
     firstname: Corbinian
     url: http://corbischlosser.site/
@@ -207,14 +197,6 @@
     position: PhD student
     alumni: false
     permanent: false
-    
-"Upadhyaya":
-    firstname: Manu
-    url: https://manuupadhyaya.github.io/
-    profilepic: manu_upadhyaya.jpg
-    position: Visiting PhD student
-    alumni: false
-    permanent: false
 
 "Holzmüller":
     firstname: David
@@ -248,6 +230,16 @@
     alumni: false
     permanent: false
     
+"Upadhyaya":
+    firstname: Manu
+    url: https://manuupadhyaya.github.io/
+    profilepic: manu_upadhyaya.jpg
+    position: Visiting PhD student
+    alumni: true
+    movedto: Lund
+    permanent: false 
+    alumni_date: 2025
+    
 "Mishkin":
     firstname: Aaron
     url: https://cs.stanford.edu/~amishkin/
@@ -257,6 +249,16 @@
     movedto: Stanford
     permanent: false 
     alumni_date: 2025
+    
+"Fogel":
+    firstname: Fajwel
+    url: https://www.linkedin.com/in/fajwel-fogel-1124671b
+    profilepic: fajwel_fogel.jpeg
+    position: Postdoc
+    alumni: true
+    movedto: Doctolib
+    alumni_date: 2024
+    permanent: false
     
 "Follain":
     firstname: Bertille
@@ -1034,7 +1036,7 @@
     profilepic: frederik_kunstner.jpg
     position: Postdoc
     alumni: false
-    alumni_date: 2026
+    permanent: false
 
 "Berg Thomsen":
     firstname: Daniel
