@@ -1073,3 +1073,11 @@
     position: Postdoc
     alumni: false
     permanent: false
+
+"Meng":
+    firstname: Si Yi
+    url: https://www.cs.cornell.edu/~siyimeng
+    profilepic: siyi_meng.jpg
+    position: Visiting PhD student
+    alumni: false
+    permanent: false 
