@@ -1081,4 +1081,12 @@
     position: Visiting PhD student
     alumni: false
     permanent: false
+
+"Haddouche":
+    firstname: Maxime
+    url: https://maximehaddouche.github.io/
+    profilepic: maxime_haddouche.jpeg
+    position: Postdoc
+    alumni: false
+    permanent: false
     
