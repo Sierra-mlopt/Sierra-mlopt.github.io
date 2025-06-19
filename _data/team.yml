@@ -368,6 +368,14 @@
     alumni: true
     alumni_date: 2023
     
+"Ayoub":
+    firstname: Ayoub
+    url: https://www.linkedin.com/in/ayoub-melliti-799b70180/
+    profilepic: ayoub_melliti.jpg
+    position: Intern
+    alumni: false
+    permanent: false
+    
 "Woodworth":
     firstname: Blake
     url: https://blakewoodworth.github.io/
