@@ -22,6 +22,14 @@
     alumni: false
     permanent: true 
 
+"Marion":
+    firstname: Pierre
+    url: https://pierremarion23.github.io/
+    profilepic: pierre_marion.png
+    position: Inria
+    alumni: false
+    permanent: true 
+
 "Simsekli":
     firstname: Umut
     url: https://www.di.ens.fr/~simsekli/
