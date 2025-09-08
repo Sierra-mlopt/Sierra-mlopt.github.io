@@ -75,8 +75,10 @@
     url: https://lawrencemmstewart.github.io/
     profilepic: unknown.jpg
     position: PhD student
-    alumni: false
+    alumni: true
+    movedto: Google DeepMind
     permanent: false
+    alumni_date: 2025
     
 "Andrews":
     firstname: Roland
