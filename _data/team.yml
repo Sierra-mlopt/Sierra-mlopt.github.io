@@ -1124,3 +1124,10 @@
     alumni: false
     permanent: false
 
+"Narozniak":
+    firstname: Gaetan
+    url: https://www.linkedin.com/in/ga%C3%ABtan-narozniak-695b80217/
+    profilepic: gaetan_narozniak.jpg
+    position: PhD student
+    alumni: false
+    permanent: false
