@@ -69,6 +69,56 @@
     position: PhD student
     alumni: false
     permanent: false
+
+"Meng":
+    firstname: Si Yi
+    url: https://www.cs.cornell.edu/~siyimeng
+    profilepic: siyi_meng.jpg
+    position: Visiting PhD student
+    alumni: true
+    movedto: Cornell University
+    permanent: false
+    alumni_date: 2026
+
+"Krishan Lal":
+    firstname: Manish
+    url: https://mkrishan.github.io/
+    profilepic: manish-kl.jpeg
+    position: Visiting researcher
+    alumni: true
+    movedto: Technical University of Munich
+    permanent: false
+    alumni_date: 2026
+    
+"François":
+    firstname: Alexandre
+    url: https://www.linkedin.com/in/alexandre-fran%C3%A7ois-0a0095207/
+    profilepic: alexandre_francois.jpg
+    position: PhD student
+    alumni: true
+    movedto: Secrétariat général à la planification écologique
+    permanent: false 
+    alumni_date: 2025
+    
+"Lezane":
+    firstname: Clément
+    url: https://www.linkedin.com/in/cl%C3%A9ment-lezane-7222b01b6/
+    profilepic: clement_lezanne.jpeg
+    position: PhD student
+    alumni: true
+    movedto: ANITI, Toulouse
+    permanent: false 
+    alumni_date: 2025
+    
+"Schlosser":
+    firstname: Corbinian
+    url: http://corbischlosser.site/
+    profilepic: corbinian_shlosser.jpeg
+    position: Postdoc
+    alumni: true
+    movedto: School teaching
+    permanent: false 
+    alumni_date: 2025
     
 "Stewart":
     firstname: Lawrence
@@ -103,16 +153,6 @@
     position: PhD student
     alumni: false
     permanent: false
-    
-"Schlosser":
-    firstname: Corbinian
-    url: http://corbischlosser.site/
-    profilepic: corbinian_shlosser.jpeg
-    position: Postdoc
-    alumni: true
-    movedto: School teaching
-    permanent: false 
-    alumni_date: 2025
     
 "Dupuis":
     firstname: Benjamin
@@ -170,16 +210,6 @@
     alumni: false
     permanent: false
     
-"Lezane":
-    firstname: Clément
-    url: https://www.linkedin.com/in/cl%C3%A9ment-lezane-7222b01b6/
-    profilepic: clement_lezanne.jpeg
-    position: PhD student
-    alumni: true
-    movedto: ANITI, Toulouse
-    permanent: false 
-    alumni_date: 2025
-    
 "Martin":
     firstname: Simon
     url: https://simonmartin15.github.io/
@@ -195,16 +225,6 @@
     position: PhD student
     alumni: false
     permanent: false
-    
-"François":
-    firstname: Alexandre
-    url: https://www.linkedin.com/in/alexandre-fran%C3%A7ois-0a0095207/
-    profilepic: alexandre_francois.jpg
-    position: PhD student
-    alumni: true
-    movedto: Secrétariat général à la planification écologique
-    permanent: false 
-    alumni_date: 2025
 
 "Holzmüller":
     firstname: David
@@ -1098,16 +1118,6 @@
     alumni: false
     permanent: false
 
-"Meng":
-    firstname: Si Yi
-    url: https://www.cs.cornell.edu/~siyimeng
-    profilepic: siyi_meng.jpg
-    position: Visiting PhD student
-    alumni: true
-    movedto: Cornell University
-    permanent: false
-    alumni_date: 2026
-
 "Haddouche":
     firstname: Maxime
     url: https://maximehaddouche.github.io/
@@ -1123,16 +1133,6 @@
     position: PhD student
     alumni: false
     permanent: false
-
-"Krishan Lal":
-    firstname: Manish
-    url: https://mkrishan.github.io/
-    profilepic: manish-kl.jpeg
-    position: Visiting researcher
-    alumni: true
-    movedto: Technical University of Munich
-    permanent: false
-    alumni_date: 2026
     
 "Narozniak":
     firstname: Gaetan
