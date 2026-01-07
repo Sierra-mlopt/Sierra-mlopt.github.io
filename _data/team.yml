@@ -109,8 +109,10 @@
     url: http://corbischlosser.site/
     profilepic: corbinian_shlosser.jpeg
     position: Postdoc
-    alumni: false
-    permanent: false
+    alumni: true
+    movedto: School teaching
+    permanent: false 
+    alumni_date: 2025
     
 "Dupuis":
     firstname: Benjamin
@@ -173,8 +175,10 @@
     url: https://www.linkedin.com/in/cl%C3%A9ment-lezane-7222b01b6/
     profilepic: clement_lezanne.jpeg
     position: PhD student
-    alumni: false
-    permanent: false
+    alumni: true
+    movedto: ANITI, Toulouse
+    permanent: false 
+    alumni_date: 2025
     
 "Martin":
     firstname: Simon
@@ -194,11 +198,13 @@
     
 "François":
     firstname: Alexandre
-    url: https://sierra-mlopt.github.io
+    url: https://www.linkedin.com/in/alexandre-fran%C3%A7ois-0a0095207/
     profilepic: alexandre_francois.jpg
     position: PhD student
-    alumni: false
-    permanent: false
+    alumni: true
+    movedto: Secrétariat général à la planification écologique
+    permanent: false 
+    alumni_date: 2025
 
 "Holzmüller":
     firstname: David
@@ -1097,8 +1103,10 @@
     url: https://www.cs.cornell.edu/~siyimeng
     profilepic: siyi_meng.jpg
     position: Visiting PhD student
-    alumni: false
+    alumni: true
+    movedto: Cornell University
     permanent: false
+    alumni_date: 2026
 
 "Haddouche":
     firstname: Maxime
@@ -1120,10 +1128,12 @@
     firstname: Manish
     url: https://mkrishan.github.io/
     profilepic: manish-kl.jpeg
-    position: Visiting Researcher
-    alumni: false
+    position: Visiting researcher
+    alumni: true
+    movedto: Technical University of Munich
     permanent: false
-
+    alumni_date: 2026
+    
 "Narozniak":
     firstname: Gaetan
     url: https://www.linkedin.com/in/ga%C3%ABtan-narozniak-695b80217/
