@@ -264,11 +264,9 @@
     firstname: Manu
     url: https://manuupadhyaya.github.io/
     profilepic: manu_upadhyaya.jpg
-    position: Visiting PhD student
-    alumni: true
-    movedto: Lund
-    permanent: false 
-    alumni_date: 2025
+    position: Postdoc
+    alumni: false
+    permanent: false
     
 "Mishkin":
     firstname: Aaron
