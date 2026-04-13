@@ -1155,3 +1155,11 @@
     position: Intern
     alumni: false
     permanent: false
+
+"Benhaim":
+    firstname: Adélie
+    url: https://www.linkedin.com/in/ad%C3%A9lie-benhaim-099288320/
+    profilepic: adelie_benhaim.jpeg
+    position: Intern
+    alumni: false
+    permanent: false
