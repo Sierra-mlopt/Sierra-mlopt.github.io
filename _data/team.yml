@@ -1147,3 +1147,11 @@
     position: Intern
     alumni: false
     permanent: false
+    
+"Colomban":
+    firstname: Noé
+    url: https://www.linkedin.com/in/noecolomban/
+    profilepic: noe_colomban.jpg
+    position: Intern
+    alumni: false
+    permanent: false

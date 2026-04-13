@@ -27,7 +27,7 @@ In order to add a picture for a team member, place it in the repository [assets/
 The following step-by-step procedure allows to directly edit the website
 
 0) Create a github account, and get a nice picture of you (if you want to put one on the website).
-Make sure the picture has a reasonable size (otherwise, it will take a while to load). Your picture does not need a high resolution here.
+Make sure the picture has a reasonable size (otherwise, it will take a while to load): **max 100KB**. Your picture does not need a high resolution here.
 
 1) Fork the repository (so that you have a copy associated with your git account; see, for instance [help here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
 
