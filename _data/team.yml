@@ -1139,3 +1139,11 @@
     position: PhD student
     alumni: false
     permanent: false
+
+"Elhishi":
+    firstname: Ali
+    url: www.linkedin.com/in/alielhishi
+    profilepic: ali_elhishi.jpg
+    position: Intern
+    alumni: false
+    permanent: false
