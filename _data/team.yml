@@ -1140,6 +1140,14 @@
     alumni: false
     permanent: false
 
+"Elhishi":
+    firstname: Ali
+    url: www.linkedin.com/in/alielhishi
+    profilepic: ali_elhishi.jpg
+    position: Intern
+    alumni: false
+    permanent: false
+    
 "Colomban":
     firstname: Noé
     url: https://www.linkedin.com/in/noecolomban/
