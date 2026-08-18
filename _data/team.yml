@@ -66,7 +66,7 @@
     firstname: Marc
     url: https://marc-h-lambert.github.io/
     profilepic: marc_lambert.jpeg
-    position: PhD student
+    position: External collaborator
     alumni: false
     permanent: false
 
@@ -225,14 +225,6 @@
     position: PhD student
     alumni: false
     permanent: false
-
-"Holzmüller":
-    firstname: David
-    url: https://dholzmueller.github.io/
-    profilepic: david_holzmueller.jpg
-    position: Postdoc
-    alumni: false
-    permanent: false
     
 "Dana":
     firstname: Léo
@@ -267,6 +259,16 @@
     position: Postdoc
     alumni: false
     permanent: false
+
+"Holzmüller":
+    firstname: David
+    url: https://dholzmueller.github.io/
+    profilepic: david_holzmueller.jpg
+    position: Postdoc
+    alumni: true
+    movedto: Inria Saclay
+    permanent: false 
+    alumni_date: 2026
     
 "Mishkin":
     firstname: Aaron
