@@ -169,6 +169,14 @@
     position: PhD student
     alumni: false
     permanent: false
+
+"Farghly":
+    firstname: Tyler
+    url: https://tylerkf.github.io/
+    profilepic: tyler_farghly.jpeg
+    position: Postdoc
+    alumni: false
+    permanent: false
     
 "Berta":
     firstname: Eugène
