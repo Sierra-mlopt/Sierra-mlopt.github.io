@@ -42,7 +42,17 @@
     firstname: Adrien
     url: https://adrientaylor.github.io/
     profilepic: adrien_taylor.jpeg
-    position: Inria
+    position: Research scientist
+    alumni: true
+    permanent: true
+    movedto: Inria Grenoble
+    alumni_date: 2026
+
+"Usuga Uribe":
+    firstname: Cristina
+    url: https://sierra-mlopt.github.io/
+    profilepic: unknown.jpg
+    position: Inria, team assistant
     alumni: false
     permanent: true 
 
@@ -51,8 +61,10 @@
     url: https://sierra-mlopt.github.io/
     profilepic: unknown.jpg
     position: Inria, team assistant
-    alumni: false
+    alumni: true
     permanent: true 
+    movedto: CNRS
+    alumni_date: 2026
     
 "Chen":
     firstname: Yurong
