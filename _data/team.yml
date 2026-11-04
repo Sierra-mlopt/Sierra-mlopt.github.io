@@ -1190,3 +1190,11 @@
     position: PhD student
     alumni: false
     permanent: false
+
+"Perbost":
+    firstname: Adam
+    url: https://www.linkedin.com/in/adam-perbost
+    profilepic: adam_perbost.jpeg
+    position: PhD student
+    alumni: false
+    permanent: false
