@@ -1223,3 +1223,11 @@
     position: PhD student
     alumni: false
     permanent: false
+
+"Mashal":
+  firstname: Yazan
+  url: www.yazanmashal.com
+  profilepic: yazan_mashal.jpg
+  position: Intern
+  alumni: false
+  permanent: false
